@@ -1,6 +1,15 @@
 #This programme chooses a random number between 1 aand 6 and then tells a story
 #that will happen according to entered stories below.
+import time
 import random
+print("Hello Fellow Dear Human Being.")
+time.sleep(3)
+print("This is a programme by Me, and it is going to tell you a fortune")
+print("Trust me i am a magician")
+print("your number iiiiiiissssssssssssssss")
+time.sleep(10)
+print(answer)
+print("your fortune is")
 answer = random.randint(1,6)
 if answer == 1:
     print("you will make a new friend this week")
