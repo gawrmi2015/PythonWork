@@ -12,5 +12,5 @@ elif answer == 4:
     print("you will get over 3 credits this week")
 elif  answer == 5:
     print("you will pass your next test that you take")
-elif answer == 6:
+else answer == 6:
     print("you will find over 200 pounds on the floor")
