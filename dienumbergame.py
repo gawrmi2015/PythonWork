@@ -6,5 +6,5 @@ if number == dienumber:
     print("congratulations you won 2000 pounds")
 elif number <= dienumber:
     print("congratulations you won 20 pounds")
-elif number >= dienumber:
+else number >= dienumber:
     print("sorry you didnt win anything")
