@@ -1,2 +1,3 @@
 # PythonWork
-This is my computer programming work.
+Hello Fellow Humans. This is a python code repository.
+
